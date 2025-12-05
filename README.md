@@ -1,0 +1,2 @@
+# Image-processing-blurring-sharpening-edge-detection-through-hardware-software-co-design-approach
+This project demonstrates the practical implementation of three fundamental image processing techniques—blurring, sharpening, and edge detection—using a hardware-software co-design approach. The objective was to leverage both software flexibility and hardware acceleration for efficient image filtering.
